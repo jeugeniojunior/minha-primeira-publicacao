@@ -1,0 +1,20 @@
+* {
+    font-size: 26px;
+    font-family: courier;
+    color: #373737;
+}
+
+div {
+    text-align: center;
+    background:#757272;
+}
+img {
+    width: 280px;
+}
+
+h4{
+    color: red;
+}
+h4:hover{
+    color: chartreuse;
+}
